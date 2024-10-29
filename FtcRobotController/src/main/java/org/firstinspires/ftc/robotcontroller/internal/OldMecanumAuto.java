@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
 
 @Autonomous(name = "Old Main Auto Mecanum Drive")
-public class MecanumAuto extends LinearOpMode {
+public class OldMecanumAuto extends LinearOpMode {
 
     @Override
     public void runOpMode() throws InterruptedException {
