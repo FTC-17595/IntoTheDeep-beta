@@ -17,7 +17,7 @@ public class EncoderLimitTest extends LinearOpMode {
 
         int position = 0;
 
-        motor2.setTargetPosition(-3120);
+        motor2.setTargetPosition(-2750);
         motor2.setMode(DcMotor.RunMode.RUN_TO_POSITION);
         motor2.setPower(0.5);
 
